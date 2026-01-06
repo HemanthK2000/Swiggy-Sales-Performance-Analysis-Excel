@@ -4,3 +4,4 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 
 The analysis demonstrates real-world business intelligence skills commonly required in data analyst roles.
 Raw Data:- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Raw%20Data.xlsx
+Dashboard :- 
