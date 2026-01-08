@@ -4,9 +4,9 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 
 Raw Data :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Raw%20Data.xlsx
 
-Dashboard :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Dashboard.jpg
+Dashboard Image :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Dashboard.jpg
 
-Video :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Analysis%20Dashboard.mp4
+Dashboard Video :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Analysis%20Dashboard.mp4
 
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
