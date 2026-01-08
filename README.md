@@ -9,6 +9,8 @@ Dashboard Image :-
 
 Dashboard Video :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Analysis%20Dashboard.mp4
 
+https://github.com/user-attachments/assets/160832a3-037b-4a37-aa20-15085c3b89a9
+
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
 - Identify peak order periods and demand trends
