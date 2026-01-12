@@ -9,7 +9,7 @@ Dashboard Image :-
 
 Dashboard Video :- 
 
-https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/issues/new
+https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
