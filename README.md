@@ -12,7 +12,7 @@ Dashboard Video :-
 
 https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 
-https://github.com/user-attachments/assets/37a83e83-a63d-4a72-9cb6-61195a5c8771
+https://github.com/user-attachments/assets/beed306f-6b34-403d-86fa-6d501c46f298
 
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
