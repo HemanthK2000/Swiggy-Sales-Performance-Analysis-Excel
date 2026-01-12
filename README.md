@@ -12,6 +12,8 @@ Dashboard Video :-
 
 https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 
+https://github.com/user-attachments/assets/37a83e83-a63d-4a72-9cb6-61195a5c8771
+
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
 - Identify peak order periods and demand trends
