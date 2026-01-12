@@ -6,7 +6,7 @@ Raw Data :-
 https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Raw%20Data.xlsx
 
 Dashboard Image :-
-<img width="1515" height="857" alt="Image" src="https://github.com/user-attachments/assets/7def32f4-53f3-4aeb-b6c7-cf90dea0bbb6" />
+![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
 
 Dashboard Video :- 
 
