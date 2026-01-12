@@ -61,6 +61,7 @@ The dataset contains Swiggy order-level data with the following attributes:
 ## 📈 Dashboards & Visualizations
 The Excel dashboard includes:
 - KPI Cards (Total Sales, Total Orders, Average Order Rate, Rating Count, Average Rating)
+![Image](https://github.com/user-attachments/assets/f390bd37-cabc-4be3-8a9b-e5f3ca59245a)
 - Montly Sales Trend
 - Sales by Food Type
 - Sales by State
