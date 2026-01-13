@@ -5,8 +5,7 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 ### Raw Data :- 
 [Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/24566998/Swiggy.Raw.Data.Excel.xlsx)
 
-### <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/29d2c96d-0468-418a-b370-1b705ed6c10b" />
-Dashboard Image :-
+### Dashboard Image :-
 ![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
 
 ### Dashboard Video :- 
