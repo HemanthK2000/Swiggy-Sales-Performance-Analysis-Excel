@@ -43,11 +43,19 @@ The dataset contains Swiggy order-level data with the following attributes:
 - Order ID  
 - Order Date  
 - Restaurant Name
-- City 
-- Food Category  
-- Order Value  
+- City
+- State
+- Day
+- Week
+- Quarter
+- Location
+- Category
+- Dish Name
+- Food Type / Food Category
+- Order Value / Price (INR) 
 - Quantity  
 - Customer Rating
+- Rating Count
   
 ## 🔍 Key Analysis Performed
 - **Sales Trend Analysis** (Weekly / Monthly)
@@ -62,7 +70,7 @@ The dataset contains Swiggy order-level data with the following attributes:
 
 ## 📈 Dashboards & Visualizations
 The Excel dashboard includes:
-### - KPI Cards (Total Sales, Total Orders, Average Order Value, Rating Count, Average Rating)
+### - KPI Cards (Total Sales, Average Rating, Average Order Value, Rating Count, Total Orders)
 
 ![Image](https://github.com/user-attachments/assets/f390bd37-cabc-4be3-8a9b-e5f3ca59245a)
 
