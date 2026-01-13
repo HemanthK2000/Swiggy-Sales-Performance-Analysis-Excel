@@ -2,7 +2,7 @@
 This project focuses on analyzing sales performance data of Swiggy, one of India’s leading online food delivery platforms.
 Using Microsoft Excel, the project transforms raw transactional data into meaningful insights that help understand revenue trends, customer behavior, top-performing restaurants, and delivery performance.
 
-### .csv Raw Data :- 
+### 🧾 Raw Data :- 
 
 [Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/24566998/Swiggy.Raw.Data.Excel.xlsx)
 
@@ -126,7 +126,7 @@ The Excel dashboard includes:
 
 ---
 
-## Analysis of Data & Visual Charts
+## 🧮 Analysis of Data & Visual Charts
 
 ![Image](https://github.com/user-attachments/assets/854f6809-8032-4b05-af79-65af8bbdfa3c)
 
