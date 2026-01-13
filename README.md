@@ -56,6 +56,8 @@ The dataset contains Swiggy order-level data with the following attributes:
 - Quantity  
 - Customer Rating
 - Rating Count
+
+![Image](https://github.com/user-attachments/assets/f2636be6-e55f-4066-b028-2e8d73dbb815)
   
 ## 🔍 Key Analysis Performed
 - **Sales Trend Analysis** (Weekly / Monthly)
