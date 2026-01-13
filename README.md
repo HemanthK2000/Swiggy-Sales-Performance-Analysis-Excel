@@ -12,6 +12,8 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 
 https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 
+### Analysis Video :-
+
 https://github.com/user-attachments/assets/beed306f-6b34-403d-86fa-6d501c46f298
 
 ## 🎯 Objectives
