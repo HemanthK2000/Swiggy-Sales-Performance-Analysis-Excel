@@ -60,35 +60,35 @@ The dataset contains Swiggy order-level data with the following attributes:
 
 ## 📈 Dashboards & Visualizations
 The Excel dashboard includes:
-# - KPI Cards (Total Sales, Total Orders, Average Order Value, Rating Count, Average Rating)
+### - KPI Cards (Total Sales, Total Orders, Average Order Value, Rating Count, Average Rating)
 
 ![Image](https://github.com/user-attachments/assets/f390bd37-cabc-4be3-8a9b-e5f3ca59245a)
 
-# - Montly Sales Trend
+### - Montly Sales Trend
   
 ![Image](https://github.com/user-attachments/assets/71b3aeeb-55b0-452b-9f75-574139ca416e)
 
-# - Sales by Food Type
+### - Sales by Food Type
 
 ![Image](https://github.com/user-attachments/assets/712affd9-7e22-441d-b52e-398a0014a754)
 
-# - Sales by State
+### - Sales by State
 
 ![Image](https://github.com/user-attachments/assets/b4b11dc1-4cfd-4b14-b10e-4ac8a880deba)
   
-# - Daily Sales Trend
+### - Daily Sales Trend
 
 ![Image](https://github.com/user-attachments/assets/f8de588a-0962-4d41-9582-af2a658cbeb6)
 
-# - Total Sales, Rating & Total Orders by State
+### - Total Sales, Rating & Total Orders by State
 
 ![Image](https://github.com/user-attachments/assets/68cbcf11-f0f2-49e6-9eb5-8fdf14d24e68)
 
-# - Top 5 Cities by Sales
+### - Top 5 Cities by Sales
 
 ![Image](https://github.com/user-attachments/assets/bcf3c919-1b38-4b56-be07-ea6925fae78e)
 
-# - Weekly Sales Trend
+### - Weekly Sales Trend
 
 ![Image](https://github.com/user-attachments/assets/33d03b41-88d8-4f6e-855b-1374d9aaceb4)
 
