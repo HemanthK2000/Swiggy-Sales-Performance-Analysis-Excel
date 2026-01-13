@@ -73,10 +73,24 @@ The Excel dashboard includes:
 ![Image](https://github.com/user-attachments/assets/712affd9-7e22-441d-b52e-398a0014a754)
 
 - Sales by State
+
+![Image](https://github.com/user-attachments/assets/b4b11dc1-4cfd-4b14-b10e-4ac8a880deba)
+  
 - Daily Sales Trend
+
+![Image](https://github.com/user-attachments/assets/f8de588a-0962-4d41-9582-af2a658cbeb6)
+
 - Total Sales, Rating & Total Orders by State
+
+![Image](https://github.com/user-attachments/assets/68cbcf11-f0f2-49e6-9eb5-8fdf14d24e68)
+
 - Top 5 Cities by Sales
+
+![Image](https://github.com/user-attachments/assets/bcf3c919-1b38-4b56-be07-ea6925fae78e)
+
 - Weekly Sales Trend
+
+![Image](https://github.com/user-attachments/assets/33d03b41-88d8-4f6e-855b-1374d9aaceb4)
 
 ---
 
