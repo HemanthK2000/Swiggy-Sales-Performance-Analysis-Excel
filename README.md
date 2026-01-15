@@ -72,6 +72,28 @@ The dataset contains Swiggy order-level data with the following attributes:
 
 ---
 
+## 🧮 Analysis of Data & Visual Charts
+
+![Image](https://github.com/user-attachments/assets/854f6809-8032-4b05-af79-65af8bbdfa3c)
+
+![Image](https://github.com/user-attachments/assets/0cda8cbd-9315-4d7e-9dc7-d29225e983ef)
+
+![Image](https://github.com/user-attachments/assets/6b31fc6f-d072-41ab-ada3-ee4fefa9ecfc)
+
+![Image](https://github.com/user-attachments/assets/e5e3f2cb-ca3a-4dd4-b96f-0c5aeb93c78e)
+
+![Image](https://github.com/user-attachments/assets/cf8ddc85-f19b-48fa-845d-4ec7a177a633)
+
+![Image](https://github.com/user-attachments/assets/09e9e95b-07f7-43c6-a628-2fba6cd75fe3)
+
+![Image](https://github.com/user-attachments/assets/c82e43e3-f505-45b0-b9d2-16ecf3f45e2e)
+
+![Image](https://github.com/user-attachments/assets/003032ff-c6ae-4079-b51e-708fd2f0724f)
+
+<img width="1517" height="857" alt="Image" src="https://github.com/user-attachments/assets/4e3e6099-8478-4dc1-bcbd-c9cd509a3e8f" />
+
+---
+
 ## 📈 Dashboards & Visualizations
 The Excel dashboard includes:
 ### - **KPI Cards (Total Sales, Average Rating, Average Order Value, Rating Count, Total Orders)**
@@ -123,28 +145,6 @@ The Excel dashboard includes:
 - Optimize discounts during off-peak hours
 - Improve customer experience for low-rated restaurants
 - Expand popular food categories
-
----
-
-## 🧮 Analysis of Data & Visual Charts
-
-![Image](https://github.com/user-attachments/assets/854f6809-8032-4b05-af79-65af8bbdfa3c)
-
-![Image](https://github.com/user-attachments/assets/0cda8cbd-9315-4d7e-9dc7-d29225e983ef)
-
-![Image](https://github.com/user-attachments/assets/6b31fc6f-d072-41ab-ada3-ee4fefa9ecfc)
-
-![Image](https://github.com/user-attachments/assets/e5e3f2cb-ca3a-4dd4-b96f-0c5aeb93c78e)
-
-![Image](https://github.com/user-attachments/assets/cf8ddc85-f19b-48fa-845d-4ec7a177a633)
-
-![Image](https://github.com/user-attachments/assets/09e9e95b-07f7-43c6-a628-2fba6cd75fe3)
-
-![Image](https://github.com/user-attachments/assets/c82e43e3-f505-45b0-b9d2-16ecf3f45e2e)
-
-![Image](https://github.com/user-attachments/assets/003032ff-c6ae-4079-b51e-708fd2f0724f)
-
-<img width="1517" height="857" alt="Image" src="https://github.com/user-attachments/assets/4e3e6099-8478-4dc1-bcbd-c9cd509a3e8f" />
 
 ---
 
