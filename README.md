@@ -151,7 +151,5 @@ The Excel dashboard includes:
 ## 👤 Author
 ### **Hemanth K**  
 Aspiring Data Analyst  
-
 📫 LinkedIn: *(https://www.linkedin.com/in/hemanth-k-7469a9196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
-
 📂 Portfolio: *(https://github.com/HemanthK2000)* 
