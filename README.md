@@ -6,10 +6,6 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 
 [Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/24566998/Swiggy.Raw.Data.Excel.xlsx)
 
-### 📈 Dashboard Image :-
-
-![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
-
 ### 📊🎥 Interactive Dashboard Video :- 
 
 https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
@@ -17,6 +13,10 @@ https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 ### 📈🎬 Analysis Video :-
 
 https://github.com/user-attachments/assets/beed306f-6b34-403d-86fa-6d501c46f298
+
+### 📈 Dashboard Image :-
+
+![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
 
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
