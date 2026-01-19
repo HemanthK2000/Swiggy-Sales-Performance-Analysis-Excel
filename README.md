@@ -14,10 +14,6 @@ https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 
 https://github.com/user-attachments/assets/beed306f-6b34-403d-86fa-6d501c46f298
 
-### 📈 Dashboard Image :-
-
-![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
-
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
 - Identify peak order periods and demand trends
@@ -74,59 +70,62 @@ The dataset contains Swiggy order-level data with the following attributes:
 
 ## 🧮 Analysis of Data & Visual Charts
 
-![Image](https://github.com/user-attachments/assets/854f6809-8032-4b05-af79-65af8bbdfa3c)
-
-![Image](https://github.com/user-attachments/assets/0cda8cbd-9315-4d7e-9dc7-d29225e983ef)
-
-![Image](https://github.com/user-attachments/assets/6b31fc6f-d072-41ab-ada3-ee4fefa9ecfc)
-
-![Image](https://github.com/user-attachments/assets/e5e3f2cb-ca3a-4dd4-b96f-0c5aeb93c78e)
-
-![Image](https://github.com/user-attachments/assets/cf8ddc85-f19b-48fa-845d-4ec7a177a633)
-
-![Image](https://github.com/user-attachments/assets/09e9e95b-07f7-43c6-a628-2fba6cd75fe3)
-
-![Image](https://github.com/user-attachments/assets/c82e43e3-f505-45b0-b9d2-16ecf3f45e2e)
-
-![Image](https://github.com/user-attachments/assets/003032ff-c6ae-4079-b51e-708fd2f0724f)
-
-<img width="1517" height="857" alt="Image" src="https://github.com/user-attachments/assets/4e3e6099-8478-4dc1-bcbd-c9cd509a3e8f" />
-
----
-
-## 📈 Dashboards & Visualizations
 The Excel dashboard includes:
 ### - **KPI Cards (Total Sales, Average Rating, Average Order Value, Rating Count, Total Orders)**
+
+![Image](https://github.com/user-attachments/assets/854f6809-8032-4b05-af79-65af8bbdfa3c)
 
 ![Image](https://github.com/user-attachments/assets/f390bd37-cabc-4be3-8a9b-e5f3ca59245a)
 
 ### - **Montly Sales Trend**
-  
+
+![Image](https://github.com/user-attachments/assets/0cda8cbd-9315-4d7e-9dc7-d29225e983ef)
+
 ![Image](https://github.com/user-attachments/assets/71b3aeeb-55b0-452b-9f75-574139ca416e)
 
 ### - **Sales by Food Type**
 
+![Image](https://github.com/user-attachments/assets/6b31fc6f-d072-41ab-ada3-ee4fefa9ecfc)
+
 ![Image](https://github.com/user-attachments/assets/712affd9-7e22-441d-b52e-398a0014a754)
 
-### - **Sales by State**
-
-![Image](https://github.com/user-attachments/assets/b4b11dc1-4cfd-4b14-b10e-4ac8a880deba)
-  
 ### - **Daily Sales Trend**
+
+![Image](https://github.com/user-attachments/assets/e5e3f2cb-ca3a-4dd4-b96f-0c5aeb93c78e)
 
 ![Image](https://github.com/user-attachments/assets/f8de588a-0962-4d41-9582-af2a658cbeb6)
 
 ### - **Total Sales, Rating & Total Orders by State**
 
+![Image](https://github.com/user-attachments/assets/cf8ddc85-f19b-48fa-845d-4ec7a177a633)
+
 ![Image](https://github.com/user-attachments/assets/68cbcf11-f0f2-49e6-9eb5-8fdf14d24e68)
 
+### - **Sales by State**
+
+![Image](https://github.com/user-attachments/assets/09e9e95b-07f7-43c6-a628-2fba6cd75fe3)
+
+![Image](https://github.com/user-attachments/assets/b4b11dc1-4cfd-4b14-b10e-4ac8a880deba)
+
 ### - **Top 5 Cities by Sales**
+
+![Image](https://github.com/user-attachments/assets/c82e43e3-f505-45b0-b9d2-16ecf3f45e2e)
 
 ![Image](https://github.com/user-attachments/assets/bcf3c919-1b38-4b56-be07-ea6925fae78e)
 
 ### - **Weekly Sales Trend**
 
+![Image](https://github.com/user-attachments/assets/003032ff-c6ae-4079-b51e-708fd2f0724f)
+
 ![Image](https://github.com/user-attachments/assets/33d03b41-88d8-4f6e-855b-1374d9aaceb4)
+
+---
+
+### 📈 Dashboard Image :-
+
+![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
+
+<img width="1517" height="857" alt="Image" src="https://github.com/user-attachments/assets/4e3e6099-8478-4dc1-bcbd-c9cd509a3e8f" />
 
 ---
 
