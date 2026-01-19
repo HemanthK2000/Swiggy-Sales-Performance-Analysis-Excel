@@ -8,11 +8,7 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 
 ### 📊🎥 Interactive Dashboard Video :- - Interactive Slicers (Month, Category, Restaurant Name)
 
-https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
-
-### 📈🎬 Analysis Video :-
-
-https://github.com/user-attachments/assets/beed306f-6b34-403d-86fa-6d501c46f298
+https://github.com/user-attachments/assets/9f0c2e2c-99f6-467a-83de-cc5a757d9850
 
 ### 📈 Dashboard Image :-
 
