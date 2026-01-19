@@ -14,6 +14,10 @@ https://github.com/user-attachments/assets/e7533455-2c24-4316-b5b4-fba1308718c8
 
 https://github.com/user-attachments/assets/beed306f-6b34-403d-86fa-6d501c46f298
 
+### 📈 Dashboard Image :-
+
+![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
+
 ## 🎯 Objectives
 - Analyze overall sales and revenue performance
 - Identify peak order periods and demand trends
@@ -119,11 +123,7 @@ The Excel dashboard includes:
 
 ![Image](https://github.com/user-attachments/assets/33d03b41-88d8-4f6e-855b-1374d9aaceb4)
 
----
-
-### 📈 Dashboard Image :-
-
-![Image](https://github.com/user-attachments/assets/11c8cee1-a10b-4a85-8624-92ce97e282d0)
+### 📈 **Interactive Dashboard Image :-**
 
 <img width="1517" height="857" alt="Image" src="https://github.com/user-attachments/assets/4e3e6099-8478-4dc1-bcbd-c9cd509a3e8f" />
 
