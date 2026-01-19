@@ -6,9 +6,9 @@ Using Microsoft Excel, the project transforms raw transactional data into meanin
 
 [Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/24566998/Swiggy.Raw.Data.Excel.xlsx)
 
-### 📊🎥 Interactive Dashboard Video :- - Interactive Slicers (Month, Category, Restaurant Name)
+### 📊🎥 Dashboard Video :- - Interactive Slicers (Month, Category, Restaurant Name)
 
-https://github.com/user-attachments/assets/9f0c2e2c-99f6-467a-83de-cc5a757d9850
+https://github.com/user-attachments/assets/c65e1055-d603-4665-98ef-392d6bdabf37
 
 ### 📈 Dashboard Image :-
 
@@ -129,7 +129,9 @@ The Excel dashboard includes:
 ![Image](https://github.com/user-attachments/assets/33d03b41-88d8-4f6e-855b-1374d9aaceb4)
 
 
-### 📈 **Interactive Dashboard Image :-**
+### 📈 **Interactive Dashboard Video and Image :-**
+
+https://github.com/user-attachments/assets/f85e052c-7366-4ac6-a872-b1da8d18d42b
 
 <img width="1517" height="857" alt="Image" src="https://github.com/user-attachments/assets/4e3e6099-8478-4dc1-bcbd-c9cd509a3e8f" />
 
