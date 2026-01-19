@@ -60,6 +60,7 @@ The dataset contains Swiggy order-level data with the following attributes:
 - Rating Count
 
 ![Image](https://github.com/user-attachments/assets/f2636be6-e55f-4066-b028-2e8d73dbb815)
+
   
 ## 🔍 Key Analysis Performed
 - **Sales Trend Analysis** (Weekly / Monthly)
@@ -75,11 +76,13 @@ The dataset contains Swiggy order-level data with the following attributes:
 ## 🧮 Analysis of Data & Visual Charts
 
 The Excel dashboard includes:
+
 ### - **KPI Cards (Total Sales, Average Rating, Average Order Value, Rating Count, Total Orders)**
 
 ![Image](https://github.com/user-attachments/assets/854f6809-8032-4b05-af79-65af8bbdfa3c)
 
 ![Image](https://github.com/user-attachments/assets/f390bd37-cabc-4be3-8a9b-e5f3ca59245a)
+
 
 ### - **Montly Sales Trend**
 
@@ -87,11 +90,13 @@ The Excel dashboard includes:
 
 ![Image](https://github.com/user-attachments/assets/71b3aeeb-55b0-452b-9f75-574139ca416e)
 
+
 ### - **Sales by Food Type**
 
 ![Image](https://github.com/user-attachments/assets/6b31fc6f-d072-41ab-ada3-ee4fefa9ecfc)
 
 ![Image](https://github.com/user-attachments/assets/712affd9-7e22-441d-b52e-398a0014a754)
+
 
 ### - **Daily Sales Trend**
 
@@ -99,11 +104,13 @@ The Excel dashboard includes:
 
 ![Image](https://github.com/user-attachments/assets/f8de588a-0962-4d41-9582-af2a658cbeb6)
 
+
 ### - **Total Sales, Rating & Total Orders by State**
 
 ![Image](https://github.com/user-attachments/assets/cf8ddc85-f19b-48fa-845d-4ec7a177a633)
 
 ![Image](https://github.com/user-attachments/assets/68cbcf11-f0f2-49e6-9eb5-8fdf14d24e68)
+
 
 ### - **Sales by State**
 
@@ -111,17 +118,20 @@ The Excel dashboard includes:
 
 ![Image](https://github.com/user-attachments/assets/b4b11dc1-4cfd-4b14-b10e-4ac8a880deba)
 
+
 ### - **Top 5 Cities by Sales**
 
 ![Image](https://github.com/user-attachments/assets/c82e43e3-f505-45b0-b9d2-16ecf3f45e2e)
 
 ![Image](https://github.com/user-attachments/assets/bcf3c919-1b38-4b56-be07-ea6925fae78e)
 
+
 ### - **Weekly Sales Trend**
 
 ![Image](https://github.com/user-attachments/assets/003032ff-c6ae-4079-b51e-708fd2f0724f)
 
 ![Image](https://github.com/user-attachments/assets/33d03b41-88d8-4f6e-855b-1374d9aaceb4)
+
 
 ### 📈 **Interactive Dashboard Image :-**
 
